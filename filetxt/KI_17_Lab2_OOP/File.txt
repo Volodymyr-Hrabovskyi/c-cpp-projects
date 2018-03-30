@@ -1,0 +1,2 @@
+Volodya   25       2        50       
+Vitalik   19       5        95       

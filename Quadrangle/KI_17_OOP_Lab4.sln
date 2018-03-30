@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KI_17_OOP_Lab4", "KI_17_OOP_Lab4\KI_17_OOP_Lab4.vcxproj", "{4EDB1E55-95D5-4767-8771-8AC167C5C899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDB1E55-95D5-4767-8771-8AC167C5C899}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EDB1E55-95D5-4767-8771-8AC167C5C899}.Debug|Win32.Build.0 = Debug|Win32
+		{4EDB1E55-95D5-4767-8771-8AC167C5C899}.Release|Win32.ActiveCfg = Release|Win32
+		{4EDB1E55-95D5-4767-8771-8AC167C5C899}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
